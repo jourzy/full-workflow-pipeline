@@ -1,14 +1,9 @@
 # 🚀 My Full Workflow
 Learning CI/CD with Test, Build, and Deploy
 
-This workshop guide builds on your first two pipelines and shows a **full workflow** in action:
-- run tests automatically
-- build a production app
-- deploy to GitHub Pages
-- use job dependencies (`needs`) so steps happen in the right order
+This workshop guide builds on your first two pipelines and shows a **full workflow** in action.
 
 By the end, you will have:
-- a forked repo, with an optional local clone for manual deployment practice
 - a GitHub Actions pipeline run from start to finish
 - a live deployment flow you can reuse in your own projects
 
